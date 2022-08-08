@@ -1,0 +1,40 @@
+//////////////////////////////////////////////
+////package.json//////////////////////////////
+//////////////////////////////////////////////
+
+// const colors = require('colors');
+// console.log("hello world".bgCyan)
+
+// const chalk = require('chalk')
+
+console.log('Hello world!');
+console.log('Hello world!');
+ 
+
+//////////////////////////////////////////////
+//creating server/////////////////////////////
+//////////////////////////////////////////////
+
+// const http = require('http');
+
+// const responseServer = (req, res) => {
+//     res.write("<h1>Hello</h1> World!")
+//     res.end();
+// }
+// http.createServer(responseServer).listen(4500);
+
+// text(a, b) {
+//     a + b
+// }
+
+// test(10, 20)
+
+//////////////////////////////////////////////
+//File System/////////////////////////////////
+//////////////////////////////////////////////
+
+// const fs = require("fs");
+// // fs.writeFileSync("hello.txt", "Hello world!");
+
+// console.log(__dirname)
+// console.log(__filename)
